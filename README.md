@@ -1,2 +1,2 @@
 # MvcMovie
-Movie webpage using ASP.NET MVC by C#
+Movie webpage project using ASP.NET MVC by C#
